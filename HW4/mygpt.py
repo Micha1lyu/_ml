@@ -10,7 +10,7 @@ mygpt.py - 自己實作的迷你 GPT
   - 訓練迴圈
   - 文字生成 (Inference)
 """
-
+ 
 import os
 import math
 import random
