@@ -49,9 +49,12 @@ def height(tour, cities):
 
 總距離計算：
 
-$$\text{total\_dist} = \sum_{i=0}^{n-1} \sqrt{(x_{t_i} - x_{t_{i+1}})^2 + (y_{t_i} - y_{t_{i+1}})^2}$$
+```
+total_dist = sum over i from 0 to n-1:
+               sqrt( (x[i] - x[i+1])^2 + (y[i] - y[i+1])^2 )
 
-其中 $t_{n} = t_0$（最後一個城市接回起點）。
+其中 tour[n] = tour[0]（最後一個城市接回起點）。
+```
 
 ---
 
