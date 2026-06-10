@@ -1,0 +1,15 @@
+# 資料集（太大，不推）
+Data/genres_original/
+Data/images_original/
+
+# 生成的特徵檔（可自行重跑）
+features.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# 暫存目錄
+../_ml_repo/
+../_ml_temp/
