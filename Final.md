@@ -9,3 +9,12 @@
 [對話內容](https://github.com/Micha1lyu/_ml/blob/master/HW3/ai_conversation.md)
 [HW3](https://github.com/Micha1lyu/_ml/tree/master/HW3)
 [說明](https://github.com/Micha1lyu/_ml/blob/master/HW3/README.md)
+## 習題 4 -- 請用 AI 本地開發工具 (opencode, antigravity, codex, ....) 寫一個 GPT 
+[HW4](https://github.com/Micha1lyu/_ml/tree/master/HW4)
+使用antigravity(sonnet 4.6)
+## 習題 5 -- 請把 agent0.py 擴充，讓他有安全控管的功能
+[HW5](https://github.com/Micha1lyu/_ml/tree/master/HW5)
+[說明](https://github.com/Micha1lyu/_ml/blob/master/HW5/README.md)
+## 習題 6 -- 請用非 transformer (attention) 的方法，做一個語言模型 
+[HW6](https://github.com/Micha1lyu/_ml/tree/master/HW6)
+[說明](https://github.com/Micha1lyu/_ml/blob/master/HW6/README.md)
