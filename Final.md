@@ -18,3 +18,8 @@
 ## 習題 6 -- 請用非 transformer (attention) 的方法，做一個語言模型 
 [HW6](https://github.com/Micha1lyu/_ml/tree/master/HW6)
 [說明](https://github.com/Micha1lyu/_ml/blob/master/HW6/README.md)
+## 期中作業 --基於深度神經網路之音樂曲風自動辨識系統
+[期中](https://github.com/Micha1lyu/_ml/tree/master/Midterm)
+[AI對話紀錄](https://github.com/Micha1lyu/_ml/blob/master/Midterm/AI_conversation_log.md)
+[說明](https://github.com/Micha1lyu/_ml/blob/master/Midterm/README.md)
+[CANVA簡報](https://canva.link/ea3jflj0uj2bkqp)
